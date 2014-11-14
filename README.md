@@ -1,4 +1,8 @@
 Thread-Library
 ==============
 
-a simple thread library(First Version) to implement threading
+Description:
+
+Implement a non pre-emptive user-level threads library mythread.a .
+
+
